@@ -80,10 +80,10 @@ public:
     }
     void MoveRectangle(int direction, int number) {
         switch (direction) {
-        case 1: {for (auto& _point : point) { _point.Up(number); }break; }       //X0=X1   Высоту по ним(Чек У)
-        case 2: {for (auto& _point : point) { _point.Right(number); }break; }    //X2=X3
-        case 3: {for (auto& _point : point) { _point.Up(-number); }break; }     //Y0=Y3   Длину по ним(Чек Х)
-        case 4: {for (auto& _point : point) { _point.Right(-number); }break; }     //Y2=Y1
+        case 1: {for (auto& _point : point) { _point.Up(number); }break; }       
+        case 2: {for (auto& _point : point) { _point.Right(number); }break; }    
+        case 3: {for (auto& _point : point) { _point.Up(-number); }break; }     
+        case 4: {for (auto& _point : point) { _point.Right(-number); }break; }     
         }
     }
     void MoveUpSide(int number) {
