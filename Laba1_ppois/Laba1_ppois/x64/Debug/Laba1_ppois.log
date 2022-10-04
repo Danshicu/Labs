@@ -1,3 +1,4 @@
 ﻿  Laba1_ppois.cpp
 D:\VSCode\3sem\Labs\Laba1_ppois\Laba1_ppois\Header.h(2,1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LINK : не найден или не выполнена сборка D:\VSCode\3sem\Labs\Laba1_ppois\x64\Debug\Laba1_ppois.exe при последней инкрементной компоновке; выполняется полная компоновка
   Laba1_ppois.vcxproj -> D:\VSCode\3sem\Labs\Laba1_ppois\x64\Debug\Laba1_ppois.exe
